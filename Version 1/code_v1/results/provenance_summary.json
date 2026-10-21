@@ -1,0 +1,17 @@
+{
+  "duplicate_rows": 0,
+  "duplicate_feature_vectors": 0,
+  "label_changes_at_rows": [
+    1999,
+    3999,
+    5999
+  ],
+  "class_counts": [
+    2000,
+    2000,
+    2000,
+    2000
+  ],
+  "rows_per_bonn_segment_min": 16,
+  "rows_per_bonn_segment_max": 23
+}

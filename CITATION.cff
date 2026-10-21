@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Shortcuts and Temporal Leakage in the Bangalore EEG Epilepsy Dataset: a Provenance Audit and Leakage-Aware Benchmark of Lightweight Seizure-Type Classifiers"
+abstract: "Provenance audit and leakage-aware benchmark of seizure-type classifiers on the Bangalore EEG Epilepsy Dataset (BEED). Research work carried out as part of the 6-Month Industrial Training & Certification Program in Artificial Intelligence and Machine Learning, jointly offered by IIT Ropar (https://www.iitrpr.ac.in/) and NIELIT Ropar (https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India."
+type: software
+authors:
+  - family-names: Aryan
+    given-names: Rishabh
+    orcid: "https://orcid.org/0009-0004-7595-9440"
+repository-code: "https://github.com/Rishabh-bgp/beed-ml-study"
+license: MIT
+date-released: "2026-10-21"
+version: "1.0.0"
+keywords:
+  - EEG
+  - epilepsy
+  - seizure classification
+  - data leakage
+  - provenance
+  - machine learning

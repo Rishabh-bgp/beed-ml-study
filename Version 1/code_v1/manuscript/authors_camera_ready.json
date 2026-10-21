@@ -1,0 +1,6 @@
+{
+ "authors": "[Author Name]^{1,*}, [Co-author Name]^{1} and [Supervisor Name]^{1}",
+ "affiliation": "^{1}[Department of ... (e.g. M.Tech, Artificial Intelligence and Data Science)], [Indian Institute of Information Technology (IIIT) Bhagalpur], [Bhagalpur], [India]",
+ "corresponding": "^{*}Corresponding Author: [Author Name], [Email]. ORCID: [Author ORCID]; [Co-author ORCID]; [Supervisor ORCID]",
+ "cover_corresponding": "Corresponding author: [Author Name]^{*}, [Department of ... (M.Tech, Artificial Intelligence and Data Science)], [Indian Institute of Information Technology (IIIT) Bhagalpur], [Bhagalpur], [India]; [Email]; ORCID [ORCID]."
+}
